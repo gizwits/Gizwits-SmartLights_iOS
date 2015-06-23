@@ -37,7 +37,6 @@
 		C37F58151AC42E9000F806D1 /* call@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C37F57E11AC42E9000F806D1 /* call@2x.png */; };
 		C37F58161AC42E9000F806D1 /* return_icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C37F57E21AC42E9000F806D1 /* return_icon@2x.png */; };
 		C37F58171AC42E9000F806D1 /* about@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C37F57E61AC42E9000F806D1 /* about@2x.png */; };
-		C37F58181AC42E9000F806D1 /* about@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C37F57E81AC42E9000F806D1 /* about@3x.png */; };
 		C37F58191AC42E9000F806D1 /* button_logout@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C37F57EA1AC42E9000F806D1 /* button_logout@2x.png */; };
 		C37F581A1AC42E9000F806D1 /* bg-40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C37F57EB1AC42E9000F806D1 /* bg-40@2x.png */; };
 		C37F581B1AC42E9000F806D1 /* bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C37F57EC1AC42E9000F806D1 /* bg@2x.png */; };
@@ -87,6 +86,7 @@
 		E25D08E71AD3746E005698BB /* IoTLightViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = E25D08E51AD3746E005698BB /* IoTLightViewCell.xib */; };
 		E25D08ED1AD3C07B005698BB /* IoTConfigurationCtrl.m in Sources */ = {isa = PBXBuildFile; fileRef = E25D08EB1AD3C07B005698BB /* IoTConfigurationCtrl.m */; };
 		E25D08EE1AD3C07B005698BB /* IoTConfigurationCtrl.xib in Resources */ = {isa = PBXBuildFile; fileRef = E25D08EC1AD3C07B005698BB /* IoTConfigurationCtrl.xib */; };
+		E2F99C351B38FC1E00DB45BC /* about@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E2F99C341B38FC1E00DB45BC /* about@3x.png */; };
 		EE13C0A51A27094B0033E8E2 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE13C0A41A27094B0033E8E2 /* AVFoundation.framework */; };
 		EE13C0A71A2709560033E8E2 /* libiconv.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = EE13C0A61A2709560033E8E2 /* libiconv.dylib */; };
 		EE13C0A91A2709650033E8E2 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE13C0A81A2709650033E8E2 /* CoreMedia.framework */; };
@@ -185,7 +185,6 @@
 		C37F57E11AC42E9000F806D1 /* call@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "call@2x.png"; sourceTree = "<group>"; };
 		C37F57E21AC42E9000F806D1 /* return_icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "return_icon@2x.png"; sourceTree = "<group>"; };
 		C37F57E61AC42E9000F806D1 /* about@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "about@2x.png"; sourceTree = "<group>"; };
-		C37F57E81AC42E9000F806D1 /* about@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "about@3x.png"; sourceTree = "<group>"; };
 		C37F57EA1AC42E9000F806D1 /* button_logout@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_logout@2x.png"; sourceTree = "<group>"; };
 		C37F57EB1AC42E9000F806D1 /* bg-40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg-40@2x.png"; sourceTree = "<group>"; };
 		C37F57EC1AC42E9000F806D1 /* bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg@2x.png"; sourceTree = "<group>"; };
@@ -246,6 +245,7 @@
 		E2D2C78F1ACBA38B00BE3CB4 /* SSPullToRefreshDefaultContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefreshDefaultContentView.h; sourceTree = "<group>"; };
 		E2D2C7901ACBA38B00BE3CB4 /* SSPullToRefreshSimpleContentView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefreshSimpleContentView.h; sourceTree = "<group>"; };
 		E2D2C7911ACBA38B00BE3CB4 /* SSPullToRefreshView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSPullToRefreshView.h; sourceTree = "<group>"; };
+		E2F99C341B38FC1E00DB45BC /* about@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "about@3x.png"; sourceTree = "<group>"; };
 		EE13C0A41A27094B0033E8E2 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		EE13C0A61A2709560033E8E2 /* libiconv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libiconv.dylib; path = usr/lib/libiconv.dylib; sourceTree = SDKROOT; };
 		EE13C0A81A2709650033E8E2 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
@@ -597,7 +597,7 @@
 		C37F57E71AC42E9000F806D1 /* 3x */ = {
 			isa = PBXGroup;
 			children = (
-				C37F57E81AC42E9000F806D1 /* about@3x.png */,
+				E2F99C341B38FC1E00DB45BC /* about@3x.png */,
 			);
 			path = 3x;
 			sourceTree = "<group>";
@@ -1163,13 +1163,13 @@
 				EE85B8B31A42763700B2833F /* IoTMainMenu.xib in Resources */,
 				C37F581A1AC42E9000F806D1 /* bg-40@2x.png in Resources */,
 				C37F581F1AC42E9000F806D1 /* hua-34@2x.png in Resources */,
-				C37F58181AC42E9000F806D1 /* about@3x.png in Resources */,
 				C37F58201AC42E9000F806D1 /* hua@2x.png in Resources */,
 				C37F58291AC42E9000F806D1 /* icon-18@2x.png in Resources */,
 				C37F58171AC42E9000F806D1 /* about@2x.png in Resources */,
 				EE2769441A41880200E0E89F /* IoTAlertView.xib in Resources */,
 				EEB74E7C1A4433930039E467 /* Localizable.strings in Resources */,
 				C37F58151AC42E9000F806D1 /* call@2x.png in Resources */,
+				E2F99C351B38FC1E00DB45BC /* about@3x.png in Resources */,
 				C37F583D1AC42E9000F806D1 /* menu_88-05@2x.png in Resources */,
 				C37F58221AC42E9000F806D1 /* icon-03@2x.png in Resources */,
 				C37F58381AC42E9000F806D1 /* icon_right@2x.png in Resources */,
