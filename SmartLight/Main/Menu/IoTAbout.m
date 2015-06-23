@@ -37,14 +37,6 @@
     // Do any additional setup after loading the view from its nib.
     self.navigationItem.title = @"关于";
     self.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"return_icon"] style:UIBarButtonItemStylePlain target:self action:@selector(onBack)];
-    
-    CGSize size = [UIApplication sharedApplication].keyWindow.frame.size;
-    
-    //iphone4s
-    if(size.width == 320 && size.height <= 480)
-    {
-        self.imageAbout.image = [UIImage imageNamed:@"about.png"];
-    }
 }
 
 - (void)didReceiveMemoryWarning {
