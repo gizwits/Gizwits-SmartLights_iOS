@@ -29,10 +29,10 @@
 #import "IoTAlertView.h"
 
 // App ID 和 Product Key
-static NSString * const IOT_APPKEY = @"cd02e08ec2634fc88ff1c9a567d88025";
+static NSString * const IOT_APPKEY = @"your_app_id";
 
-NSString * const IOT_PRODUCT           = @"a350195b4d814890aaffde668e02668d";
-NSString * const IOT_SubDevice_PRODUCT = @"b536db9b15c941c681f983e3c1a8dc1f";
+NSString * const IOT_PRODUCT           = @"your_product_key";
+NSString * const IOT_SubDevice_PRODUCT = @"your_sub_product_key";
 
 @interface AppDelegate ()
 {
