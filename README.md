@@ -1,7 +1,7 @@
 # 机智云中控智能灯
 ==================
 
-	此公版开源App近期不再维护，机智云推出了物联开源框架，并提供了其他开源案例供参考。机智云公版开源App项目地址：
+	此公版开源App正在维护中，近期无更新。机智云推出了物联开源框架，并提供了其他开源案例供参考。机智云公版开源App项目地址：
     
 	机智云物联开源框架iOS项目 https://github.com/gizwits/GizOpenSource_AppKit_iOS
 	机智云智能灯2代iOS项目 https://github.com/gizwits/Gizwits-SmartBuld_iOS
