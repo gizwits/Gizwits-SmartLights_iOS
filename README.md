@@ -1,7 +1,7 @@
 # 机智云中控智能灯
 ==================
 
-    此公版开源App近期不再维护，机智云推出了物联开源框架，并提供了其他开源案例供参考。机智云公版开源App项目地址：
+	此公版开源App近期不再维护，机智云推出了物联开源框架，并提供了其他开源案例供参考。机智云公版开源App项目地址：
     
 	机智云物联开源框架iOS项目 https://github.com/gizwits/GizOpenSource_AppKit_iOS
 	机智云智能灯2代iOS项目 https://github.com/gizwits/Gizwits-SmartBuld_iOS
@@ -40,7 +40,7 @@ Gizwits Smart-Light iOS App
 	▪	搜索中控设备列表
 	▪	绑定或解绑中控设备
 	▪	中控设备登录
-    	▪	添加、删除、控制子设备
+    ▪	添加、删除、控制子设备
 	▪	子设备分组管理
 	▪	中控设备管理
 
@@ -60,4 +60,4 @@ Gizwits Smart-Light iOS App
 问题反馈
 
     您可以给机智云的技术支持人员发送邮件，反馈您在使用过程中遇到的任何问题。
-    邮箱：club@gizwits.com
+    邮箱：club@gizwits.com
